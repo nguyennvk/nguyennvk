@@ -16,11 +16,10 @@ CS & Applied Mathematics @ University of Toronto ('26).
 | [**Route-Planner**](https://github.com/nguyennvk/Route-Planner) | Route optimization and dispatch for small delivery businesses (vehicle routing with Timefold, road distances from OSRM) | Java · Spring Boot · Angular |
 | **LOB Simulator** | Limit order book matching engine plus agent-based market simulation, Hawkes-process calibration on LOBSTER tick data, and Avellaneda–Stoikov market making. **~1.5M cancels/sec**, **844× lower inventory variance** | C++ |
 | [**Autonomous Web Form Agent**](https://github.com/nguyennvk/Autonomous-Web-Form-Automation-Agent) | Browser agent that reads and completes web forms end to end | TypeScript · Playwright · Gemini |
-| [**lineageo**](https://github.com/nguyennvk/lineageo) | "Plaid for data lineage": tracing lineage and debugging Airflow incidents | TypeScript |
 
 ## 💼 Experience
 
-- **Data Engineering Intern, GHN** (one of Vietnam's largest logistics companies): Airflow pipelines, Trino → DataHub access-control sync across ~200 datasets and 7 teams, anomaly detection over 1,300+ tables, SQL lineage tooling
+- **Data Engineering Intern, GHN**: Airflow pipelines, Trino → DataHub access-control sync across ~200 datasets and 7 teams, anomaly detection over 1,300+ tables, SQL lineage tooling
 - **Full-Stack Developer, Instructli** (UofT innovation grant): RAG-based AI learning platform used by 200+ students
 - **Full Stack Software Engineer, KinMeet** (remote, 2026–present)
 - **Undergraduate TA**: 7 CS and mathematics courses over two years
