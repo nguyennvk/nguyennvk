@@ -32,8 +32,11 @@ CS & Applied Mathematics @ University of Toronto ('26).
 ## 🧰 Toolbox
 
 **Languages:** Python · TypeScript · Java · C++ · C · SQL
+
 **Backend & data:** Spring Boot · Node.js · Airflow · Trino · DataHub · Docker
+
 **Frontend:** Angular · HTML/CSS
+
 **AI:** RAG · LLM agents · Playwright automation
 
 ## 📫 Find me
